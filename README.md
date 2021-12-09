@@ -4,8 +4,7 @@
 - 🌱 LEARNNING: Web Design, Frontend mainly.
 - 💞️ LOOKING TO: Collaborate and work on Game development, Automation, Web development.
 - 🐱‍💻 DESCRIPTION: Noob programmer. Main languages C# with Unity and Python, Actually learning Web development.
-
-- 📫 How to reach me ... https://yusei-umehara.github.io/
+- 📫 CONTACT:  https://yusei-umehara.github.io/
 
 <!---
 Yusei-Umehara/Yusei-Umehara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
