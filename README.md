@@ -1,10 +1,9 @@
-# - 👋 Hi, I’m @Yusei-Umehara
+#🖖 Hi, I’m @Yusei-Umehara
 
-- 👀 I’m interested in ... Programming, games, hacking, movies, anime and music. 
-- 🌱 I’m currently learning ... Web Design, Frontend mainly.
-- 💞️ I’m looking to collaborate on ... Game development, Automation, Web development.
-- 🐱‍💻 DESCRIPTION:
-Noob programmer.  Main languages C# with Unity and Python, Actually learning Web development.
+- 👀 INTERESTS: Programming, games, hacking, movies, anime and music. 
+- 🌱 LEARNNING: Web Design, Frontend mainly.
+- 💞️ LOOKING TO: Collaborate and work on Game development, Automation, Web development.
+- 🐱‍💻 DESCRIPTION: Noob programmer. Main languages C# with Unity and Python, Actually learning Web development.
 
 - 📫 How to reach me ... https://yusei-umehara.github.io/
 
