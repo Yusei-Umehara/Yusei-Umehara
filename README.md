@@ -1,4 +1,4 @@
-#🖖 Hi, I’m @Yusei-Umehara
+# -🖖 Hi, I’m @Yusei-Umehara
 
 - 👀 INTERESTS: Programming, games, hacking, movies, anime and music. 
 - 🌱 LEARNNING: Web Design, Frontend mainly.
